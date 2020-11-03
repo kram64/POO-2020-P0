@@ -14,7 +14,7 @@ package kp.dev;
  */
 public class Main
 {
-    public static void main(String[] args)
+    /*public static void main(String[] args)
     {
         Program p = new Program("Square");
         p.addInstruction("REP", 4);
@@ -30,5 +30,5 @@ public class Main
                 System.out.println(instr.info());
             }
         }
-    }
+    }*/
 }
